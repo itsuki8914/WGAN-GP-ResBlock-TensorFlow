@@ -46,4 +46,4 @@ python pred.py
 
 Generation of anime faces
 
-<img src = 'Result/example.png' width = '300px'>
+<img src = 'Result/example.png' width = '600px'>
