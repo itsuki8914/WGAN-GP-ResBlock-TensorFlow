@@ -42,3 +42,8 @@ python pred.py
 ```
 
 
+## Result examples
+
+Generation of anime faces
+
+<img src = 'Result/example.png' >
