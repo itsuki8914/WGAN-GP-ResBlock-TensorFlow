@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from model import *
 from btgen import BatchGenerator
 
-DATASET_DIR = "mix"
+DATASET_DIR = "data"
 SAVE_DIR = "model"
 SVIM_DIR = "sample"
 
